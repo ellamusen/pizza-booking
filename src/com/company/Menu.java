@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Menu {
-    public static String[] menuList = {"Pita med flafel","Durum","Pizza"};
+   public String name;
+   public Food[] foods;
+   public Drink[] drinks;
+   public double price;
+
+
 }
 
